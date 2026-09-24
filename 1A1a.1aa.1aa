@@ -1,0 +1,5 @@
+Players = game:GetService("Players")
+UserInputService = game:GetService("UserInputService")
+RunService = game:GetService("RunService")
+ReplicatedStorage = game:GetService("ReplicatedStorage")
+HttpService = game:GetService("HttpService")
